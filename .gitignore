@@ -1,4 +1,4 @@
 .env
 go.mod
-do.sum
+go.sum
 test.http

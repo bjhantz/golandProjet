@@ -1,7 +1,8 @@
 package models
 
 type Client struct {
-	ID  int    `json="id"`
-	Nom string `json="nom"`
-	Tel string `json="tel"`
+	ID    int    `json="id"`
+	Nom   string `json="nom"`
+	Tel   string `json="tel"`
+	Email string `json="email"`
 }
